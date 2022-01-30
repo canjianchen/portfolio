@@ -6,7 +6,7 @@
 	--light-slate: #a8b2d1;
 	--lightest-slate: #ccd6f6;
 	--white: #e6f1ff;
-	--green:#64ffda;
+	--green:#b1d8cf;
 	--green-tint: rgba(100,255,218,0.1);
 	--navy-shadow: rgba(2,12,27,0.7);
 }
@@ -157,7 +157,7 @@ nav ul li a.active,nav ul li a:hover{
 	margin-left: 20px;
 	position: relative;
 	z-index: 1;
-	background: var(--green);
+	/* background: var(--gre); */
 }
 .about-image .img-holder:before{
 	content: "";

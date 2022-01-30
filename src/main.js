@@ -9,6 +9,14 @@ import 'bootstrap/dist/js/bootstrap.js'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 import '@/assets/style.css'
 import gsap from "gsap"
+
+
+router.beforeEach((to, from, next) => {
+  if (to.meta.title) {
+    document.title = to.meta.title
+  }
+  next()
+})
 // import { gsap, ScrollTrigger, Draggable, MotionPathPlugin } from "gsap/all";
 
 // gsap.registerPlugin(ScrollTrigger, Draggable, MotionPathPlugin); 
