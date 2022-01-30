@@ -147,7 +147,7 @@
                 role="tab"
                 aria-controls="pills-home"
                 aria-selected="true"
-                >ECX</a
+                >UC Irvine</a
               >
             </li>
             <li class="nav-item">
@@ -159,18 +159,9 @@
                 role="tab"
                 aria-controls="pills-profile"
                 aria-selected="false"
-                >Zealarax Technologies</a
+                >Cal Poly Pomona</a
               >
             </li>
-            <!-- <li class="nav-item">
-							<a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Contact</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Contact</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Contact</a>
-						</li> -->
           </ul>
           <div class="tab-content" id="pills-tabContent">
             <div
@@ -180,22 +171,32 @@
               aria-labelledby="pills-home-tab"
             >
               <h6 style="color: var(--white)">
-                Frontend Developer
-                <span style="color: var(--green)">@ ECX</span>
+                Master of Computer Science 
+                <span style="color: var(--yellow)">@ UCI</span>
               </h6>
-              <p>August 2020 - September 2020</p>
-              <ul class="fa-ul pl-0 ml-3">
-                <li>
-                  <span class="fa-li"><i class="fas fa-caret-right"></i></span
-                  >Collaborated with a team of Developers to build mini
-                  applications
-                </li>
-                <li>
-                  <span class="fa-li"><i class="fas fa-caret-right"></i></span
-                  >Implementation of visual elements designed by UI Designers
-                </li>
-                <!-- <li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Brainstormed ideas for my group during the internship</li> -->
-              </ul>
+              <h6 style="color: yellow;"> GPA : <span> 4.00/4.00 </span></h6>
+              <h7 style="color: yellow;"> Aware: $20000 Recruitment Fellowship </h7>
+              <p>September 2021 - December 2022</p>
+              <p style="color: var(--white)">Courses:</p>
+
+                <ul class="skill-list float-left ml-5 mr-5 fa-ul">
+                  <li>
+                    <span class="fa-li"><i class="fas fa-caret-right"></i></span
+                    >Artificial intelligence
+                  </li>
+                  <li>
+                    <span class="fa-li"><i class="fas fa-caret-right"></i></span
+                    >Machine Learning
+                  </li>
+                  <li>
+                    <span class="fa-li"><i class="fas fa-caret-right"></i></span
+                    >Optimization
+                  </li>
+                  <li>
+                    <span class="fa-li"><i class="fas fa-caret-right"></i></span
+                    >Problem Solving
+                  </li>
+                </ul>
             </div>
             <div
               class="tab-pane fade"
@@ -204,35 +205,55 @@
               aria-labelledby="pills-profile-tab"
             >
               <h6 style="color: var(--white)">
-                Frontend Developer
-                <span style="color: var(--green)">@ Zealarax Technologies</span>
+                Bachelor of Computer Science
+                <span style="color: var(--green)">@ CPP</span>
               </h6>
-              <p>October 2018 - June 2020</p>
-              <ul class="fa-ul pl-0 ml-3">
-                <li>
-                  <span class="fa-li"><i class="fas fa-caret-right"></i></span
-                  >Working hand-in-hand with UI Designers in achieving great
-                  designs of web apps.
-                </li>
-                <li>
-                  <span class="fa-li"><i class="fas fa-caret-right"></i></span
-                  >Implementation of responsive web design which renders well
-                  across multiple devices.
-                </li>
-                <li>
-                  <span class="fa-li"><i class="fas fa-caret-right"></i></span
-                  >Translation of UI/UX Designs into codes to produce awesome
-                  interfaces for users.
-                </li>
-                <li>
-                  <span class="fa-li"><i class="fas fa-caret-right"></i></span
-                  >Building reusable codes.
-                </li>
-                <li>
-                  <span class="fa-li"><i class="fas fa-caret-right"></i></span
-                  >Preparation of documentation for applications developed.
-                </li>
-              </ul>
+              <h6 style="color: yellow">
+                  GPA : <span style="color: #white"> 3.86/4.00 </span>
+                </h6>
+				<h7 style="color: yellow">
+                  Aware: Dean’s Honor List,	President's Honor List
+                </h7>
+                <p>September 2017 - May 2021</p>
+              
+               <p style="color: var(--white)">Courses:</p>
+
+                <ul class="skill-list float-left ml-5 mr-5 fa-ul">
+                  <li>
+                    <span class="fa-li"><i class="fas fa-caret-right"></i></span
+                    >Object-Oriented
+                  </li>
+                  <li>
+                    <span class="fa-li"><i class="fas fa-caret-right"></i></span
+                    >Discrete Structures
+                  </li>
+                  <li>
+                    <span class="fa-li"><i class="fas fa-caret-right"></i></span
+                    >Algorithms Design
+                  </li>
+                  <li>
+                    <span class="fa-li"><i class="fas fa-caret-right"></i></span
+                    >Date Structures
+                  </li>
+                </ul>
+                <ul class="skill-list float-left ml-5 fa-ul">
+                  <li>
+                    <span class="fa-li"><i class="fas fa-caret-right"></i></span
+                    >Mobile App Development
+                  </li>
+                  <li>
+                    <span class="fa-li"><i class="fas fa-caret-right"></i></span
+                    >Full-Stack development
+                  </li>
+                  <li>
+                    <span class="fa-li"><i class="fas fa-caret-right"></i></span
+                    >Software Engineer Development
+                  </li>
+                  <li>
+                    <span class="fa-li"><i class="fas fa-caret-right"></i></span
+                    >Advanced Programming
+                  </li>
+                </ul>
             </div>
             <div
               class="tab-pane fade"

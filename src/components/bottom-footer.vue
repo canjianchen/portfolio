@@ -11,7 +11,7 @@
 					</ul>
 				</div>
 				<div class="col-md-6">
-					<p>Developed by Canjian Chen &copy; 2021</p>
+					<p>Developed by Canjian Chen &copy; @ Birthday 2022</p>
 				</div>
 			</div>
 		</section>
