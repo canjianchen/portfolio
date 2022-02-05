@@ -6,7 +6,7 @@
 				</div>
 				<div class="row px-3 left-project">
 					<div class="col-md-7 project-image">
-						<img src="@/assets/leetcode.png" class="img-fluid" alt="project image">
+						<img src="@/assets/leetcode2.png" class="img-fluid" alt="project image">
 					</div>
 					<div class="col-md-5 project-desc">
 						

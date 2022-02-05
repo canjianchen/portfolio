@@ -10,9 +10,9 @@ import gsap from 'gsap'
 export default {
    mounted(){
       const timeline = gsap.timeline({defaults: {duration: 0.3}})
-      timeline.from(".logo", {opacity: 0,  ease: "back", delay: 0.2})
+      timeline.from(".logo", {opacity: 0,  ease: "back", delay: 0.1})
 
-      .from(".menu-animation li", {opacity: 0, ease: "back", stagger: 0.15}, 0)
+      .from(".menu-animation li", {opacity: 0, ease: "back", stagger: 0.1}, 0)
       .from(".fa-bars", {opacity: 0, ease: "back", x: 12, delay: 0 })
       .from(".description .hi", {opacity: 0, ease: "sine", delay: 0, y: -10})
       .from(".description .name", {opacity: 0, ease: "sine",  y: -10, delay: 0})
