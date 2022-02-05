@@ -29,7 +29,7 @@
 				</div>
 				<div class="col-md-5 about-image">
 					<div class="img-holder">
-						<img src="@/assets/me.png" class="rounded" loading="lazy" alt="canjian">
+						<img src="@/assets/IMG_3385.png" class="rounded" loading="lazy" alt="canjian">
 					</div>
 				</div>
 				
