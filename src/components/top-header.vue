@@ -52,12 +52,12 @@
         </li>
         <li>
           <a class="text-decoration-none" href="#experience"
-            ><span>02. </span><br />Experience</a
+            ><span>02. </span><br />Education</a
           >
         </li>
         <li>
           <a class="text-decoration-none" href="#work"
-            ><span>03. </span><br />Work</a
+            ><span>03. </span><br />Project</a
           >
         </li>
         <li>
