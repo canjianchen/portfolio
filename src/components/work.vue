@@ -87,7 +87,7 @@
                   <span style="color: var(--green)">@ CPP</span>
                 </h6>
                 <h6 style="color: yellow">
-                  GPA : <span style="color: #white"> 3.86/4.00 </span>
+                  GPA : <span style="color: #white"> 3.81/4.00 </span>
                 </h6>
 				<h7 style="color: yellow">
                   Aware: Dean’s Honor List,	President's Honor List
