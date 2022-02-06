@@ -18,11 +18,11 @@
         </li>
         <li>
           <a class="text-decoration-none" href="#experience"
-            ><span>02. </span>Experience</a
+            ><span>02. </span>Education</a
           >
         </li>
         <li>
-          <a class="text-decoration-none" href="#work"><span>03. </span>Work</a>
+          <a class="text-decoration-none" href="#work"><span>03. </span>Project</a>
         </li>
         <li>
           <a class="text-decoration-none" href="#leetcode"
