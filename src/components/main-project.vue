@@ -20,7 +20,7 @@
 							<li>NodeJS</li>
 						</ul>
 						<ul class="project-link">
-							<li><a target="_blank" href="https://google.com"><i class="fab fa-github"></i></a></li>
+							<li><a target="_blank" href="https://github.com/canjianchen/Job_Tracking"><i class="fab fa-github"></i></a></li>
 							<li><a target="_blank" href="http://www.jobify-ca.com/"><i class="fas fa-external-link-alt"></i></a></li>
 						</ul>
 					</div>
@@ -37,8 +37,8 @@
 							<li>Git</li>
 						</ul>
 						<ul class="project-link">
-							<li><a target="_blank" href="https://google.com"><i class="fab fa-github"></i></a></li>
-							<li><a target="_blank" href="https://google.com"><i class="fas fa-external-link-alt"></i></a></li>
+							<li><a target="_blank" href="https://github.com/canjianchen/Covid-19_team"><i class="fab fa-github"></i></a></li>
+							<li><a target="_blank" href="http://www.canjianchen.life/NotFound"><i class="fas fa-external-link-alt"></i></a></li>
 						</ul>
 					</div>
 					<div class="col-md-7 project-image">
@@ -58,8 +58,8 @@ satisfaction while minimizing waiting and walking times.</p>
 							<li>Java</li>
 						</ul>
 						<ul class="project-link">
-							<li><a target="_blank" href="https://google.com"><i class="fab fa-github"></i></a></li>
-							<li><a target="_blank" href="https://google.com"><i class="fas fa-external-link-alt"></i></a></li>
+							<li><a target="_blank" href="https://github.com/canjianchen/Disney_Path"><i class="fab fa-github"></i></a></li>
+							<li><a target="_blank" href="http://www.canjianchen.life/NotFound"><i class="fas fa-external-link-alt"></i></a></li>
 						</ul>
 					</div>
 				</div>
@@ -74,7 +74,7 @@ satisfaction while minimizing waiting and walking times.</p>
 							<li>omdb-api</li>
 						</ul>
 						<ul class="project-link">
-							<li><a target="_blank" href="https://google.com"><i class="fab fa-github"></i></a></li>
+							<li><a target="_blank" href="https://github.com/canjianchen/movie"><i class="fab fa-github"></i></a></li>
 							<li><a target="_blank" href="https://young-retreat-64319.herokuapp.com/"><i class="fas fa-external-link-alt"></i></a></li>
 						</ul>
 					</div>
@@ -97,7 +97,7 @@ satisfaction while minimizing waiting and walking times.</p>
 							<li>NodeJS</li>
 						</ul>
 						<ul class="project-link">
-							<li><a target="_blank" href="https://google.com"><i class="fab fa-github"></i></a></li>
+							<li><a target="_blank" href="https://github.com/canjianchen/todoList"><i class="fab fa-github"></i></a></li>
 							<li><a target="_blank" href="https://todolistcan.herokuapp.com/"><i class="fas fa-external-link-alt"></i></a></li>
 						</ul>
 					</div>

@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import NotFound from '../views/NotFound.vue'
 
 Vue.use(VueRouter)
 
@@ -11,6 +12,11 @@ const routes = [
     component: Home,
     alias: '/pwa.html',
     meta: { title: 'Canjian - Myself' }
+  },
+  {
+    path: '*',
+    name: 'Not Found',
+    component: NotFound
   }
 ]
 
