@@ -38,7 +38,7 @@
 						</ul>
 						<ul class="project-link">
 							<li><a target="_blank" href="https://github.com/canjianchen/Covid-19_team"><i class="fab fa-github"></i></a></li>
-							<li><a target="_blank" href="http://www.canjianchen.life/NotFound"><i class="fas fa-external-link-alt"></i></a></li>
+							<li><a target="_blank" href="@/views/NotFound.vue"><i class="fas fa-external-link-alt"></i></a></li>
 						</ul>
 					</div>
 					<div class="col-md-7 project-image">
@@ -59,7 +59,7 @@ satisfaction while minimizing waiting and walking times.</p>
 						</ul>
 						<ul class="project-link">
 							<li><a target="_blank" href="https://github.com/canjianchen/Disney_Path"><i class="fab fa-github"></i></a></li>
-							<li><a target="_blank" href="http://www.canjianchen.life/NotFound"><i class="fas fa-external-link-alt"></i></a></li>
+							<li><a target="_blank" href="@/views/NotFound.vue"><i class="fas fa-external-link-alt"></i></a></li>
 						</ul>
 					</div>
 				</div>
